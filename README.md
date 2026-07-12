@@ -1,1 +1,1 @@
-﻿# shwantysignal.github.io
+# shwantysignals.github.io
